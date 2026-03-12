@@ -1,0 +1,8 @@
+groq
+langchain==0.1.16
+langchain-core
+langchain-groq
+gunicorn
+Flask
+line-bot-sdk
+python-dotenv
